@@ -125,7 +125,8 @@ int main() {
     getSize();
     
     peek();
-
+	
+	system("pause");
     return 0;
 }
 
